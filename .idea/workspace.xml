@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e287a221-da43-4d65-b430-c4cd73b29e22" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Projects\HelloDjango\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Projects\HelloDjango\.idea\HelloDjango.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Projects\HelloDjango\.idea\misc.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Projects\HelloDjango\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Projects\HelloDjango\.idea\vcs.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Projects\HelloDjango\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="HelloDjango.iws" />
@@ -385,7 +381,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441557111271</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="removing .idea">
+      <created>1441557372504</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1441557372504</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
